@@ -2,7 +2,7 @@
 import sys
 import MySQLdb
 
-__author__ = 'elly'
+__author__ = 'Prayance'
 
 try:
     db = MySQLdb.connect(host="localhost",  # your host, usually localhost
