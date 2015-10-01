@@ -5,6 +5,8 @@ import sys
 __author__ = 'Prayance'
 
 
+# takes the files, compresses it and saves it.
+# we might want to add parameters of locations etc. Will see
 def mycompression():
     try:
         import zlib
