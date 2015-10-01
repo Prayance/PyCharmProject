@@ -11,6 +11,7 @@ logDirectory = "/home/elly/myLogs/"
 logName = "logFile.log"
 
 
+# returns a list of filenames that are in the directory
 def getfiles():
     filenames = []
     try:
@@ -23,6 +24,7 @@ def getfiles():
     return filenames
 
 
+# returns the number of elements in an array
 def countfiles(myarray):
     counter = 0
     for item in myarray:
