@@ -2,7 +2,7 @@
 import os
 import time
 
-__author__ = 'elly'
+__author__ = 'Prayance'
 
 
 # the mysql database details

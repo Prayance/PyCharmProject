@@ -2,7 +2,7 @@
 import zipfile
 import sys
 
-__author__ = 'elly'
+__author__ = 'Prayance'
 
 
 def mycompression():
